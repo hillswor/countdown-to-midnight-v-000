@@ -3,7 +3,7 @@ def countdown
   while timer > 0
     puts "#{timer}"
     timer -= 1
-  puts "Happy New Year!"
+    puts "Happy New Year!"
   end
 end
 
