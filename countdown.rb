@@ -4,9 +4,7 @@ def countdown
     puts "#{timer}"
     timer -= 1
   end
-  if timer = 0
-    "Happy New Year!"
-  end
+  puts "Happy New Year!"
 end
 
 countdown
